@@ -179,3 +179,39 @@ header {
 .hero-img img {
   position: relative;
 }
+
+/*=======footer======*/
+footer {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 20px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 0 160px;
+}
+
+.creator {
+  font-size: 16px;
+  text-align: center;
+}
+
+.creator a {
+  color: #fff;
+  font-weight: 600;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.akun {
+  color: white;
+  margin: 0 10px;
+}
