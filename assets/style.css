@@ -118,34 +118,35 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 100%;
+  gap: 240px;
 }
 
 .hero-container .info h2 {
-  font-size: 32px;
+  font-size: 24px;
   font-weight: 600;
-  line-height: 70px;
+  line-height: 48px;
 }
 
 .hero-container .info h3 {
   color: var(--second-color);
-  font-feature-settings: 1em;
+  font-size: 16px;
   font-weight: 600;
-  line-height: 40px;
+  line-height: 32px;
 }
 
 .hero-container .info p {
   color: var(--third-color);
-  font-size: 14px;
-  max-width: 350px;
+  font-size: 12px;
+  max-width: 400px;
 }
+
 .hero-button {
   display: flex;
   gap: 12px;
 }
 
 .hero-button a {
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 500;
   display: inline-block;
   margin-top: 32px;
@@ -154,14 +155,14 @@ header {
 }
 
 .btn-primary {
-  padding: 12px 20px;
+  padding: 10px 16px;
   background: var(--primary-color);
   color: #fff;
   border: 2px solid var(--primary-color);
 }
 
 .btn-secondary {
-  padding: 12px 20px;
+  padding: 10px 16px;
   background: #ffff;
   color: var(--second-color);
   border: 2px solid var(--primary-color);
