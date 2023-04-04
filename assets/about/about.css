@@ -127,6 +127,16 @@ header {
   position: relative;
 }
 
+.about-img .img-box img {
+  position: relative;
+  width: 100%;
+}
+
+.about-text {
+  width: 50%;
+  padding-left: 80px;
+}
+
 /*=======footer=======*/
 footer {
   background-color: var(--primary-color);
