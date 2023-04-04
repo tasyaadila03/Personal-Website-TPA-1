@@ -71,3 +71,9 @@ header {
   padding: 2.5rem 12.8rem;
   background-color: #fff;
 }
+
+.nav-bar .logo {
+  color: var(--first-color);
+  font-size: 20px;
+  font-weight: 600;
+}
