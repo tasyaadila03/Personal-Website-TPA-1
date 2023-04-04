@@ -143,6 +143,19 @@ header {
   margin: 20px 0;
 }
 
+.about-text .skills {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.about-text .skill-item {
+  background-color: var(--tag-color);
+  border: 1px solid #fefefe;
+  padding: 8px 16px;
+  margin: 0 10px 10px 0;
+  border-radius: 15px;
+}
+
 /*=======footer=======*/
 footer {
   background-color: var(--primary-color);
