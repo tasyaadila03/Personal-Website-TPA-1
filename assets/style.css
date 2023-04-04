@@ -145,23 +145,23 @@ header {
 }
 
 .hero-button a {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 500;
   display: inline-block;
   margin-top: 32px;
-  border-radius: 15px;
+  border-radius: 12px;
   letter-spacing: 1;
 }
 
 .btn-primary {
-  padding: 15px 25px;
+  padding: 12px 20px;
   background: var(--primary-color);
   color: #fff;
   border: 2px solid var(--primary-color);
 }
 
 .btn-secondary {
-  padding: 15px 25px;
+  padding: 12px 20px;
   background: #ffff;
   color: var(--second-color);
   border: 2px solid var(--primary-color);
