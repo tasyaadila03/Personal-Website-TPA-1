@@ -49,3 +49,13 @@ a {
 li {
   list-style: none;
 }
+
+/*=======Header=======*/
+header {
+  z-index: 99999;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  transition: 1s ease;
+}
