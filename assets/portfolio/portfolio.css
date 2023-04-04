@@ -109,6 +109,79 @@ header {
   min-height: 90vh;
 }
 
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.portfolio-container {
+  padding: 1rem 12.5rem;
+  margin-bottom: 8rem;
+}
+
+.portfolio-card {
+  display: flex;
+  margin-top: 40px;
+  background-color: #fff;
+  box-shadow: var(--box-shadow);
+  padding: 20px;
+  border-radius: 12px;
+  border: 0.2px groove #dddddd;
+}
+
+.portfolio-text h3 {
+  font-size: 24px;
+  font-weight: 600;
+  margin: 24px 0 14px 0;
+}
+
+.portfolio-text {
+  padding-right: 10px;
+}
+
+.portfolio-text p {
+  font-size: 14px;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+.portfolio-text .container-skills {
+  margin-bottom: 26px;
+}
+
+.portfolio-text .skills {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.portfolio-text .skill-item {
+  font-size: 13px;
+  font-weight: 400;
+  background-color: #e5e2f8;
+  padding: 8px 12px;
+  margin: 0 10px 12px 0;
+  border-radius: 12px;
+}
+
+.portfolio-img img {
+  margin-right: 2.5rem;
+  width: 671px;
+  height: 378px;
+}
+
+.link-project {
+  color: var(--second-color);
+  font-weight: 500;
+  font-size: 16px;
+  transition: 300ms ease;
+}
+
+.link-project:hover {
+  padding-left: 10px;
+  font-weight: 630;
+}
+
 /*=======Footer=======*/
 footer {
   background-color: var(--primary-color);
