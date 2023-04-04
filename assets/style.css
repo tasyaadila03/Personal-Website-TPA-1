@@ -175,3 +175,7 @@ header {
   color: #fff;
   background-color: var(--second-color);
 }
+
+.hero-img img {
+  position: relative;
+}
