@@ -10,4 +10,13 @@
 
   /*=======Hover colors=======*/
   --hover-color: #614fd0;
+
+  /*=======Background colors=======*/
+  --body-bg-color: #fefefe;
+  --card-bg-color: #fff;
+  --modal-bg-color: #fff;
+  --bg-transparent-color: rgba(0, 0, 0, 0.1);
+  --transparent-color-01: rgba(0, 0, 0, 0.1);
+  --transparent-color-02: rgba(106, 0, 0, 0.1);
+  --line-color: #d7d7d7;
 }
