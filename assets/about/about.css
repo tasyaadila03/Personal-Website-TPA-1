@@ -156,6 +156,10 @@ header {
   border-radius: 15px;
 }
 
+.about-text .education {
+  padding: 20px 0;
+}
+
 /*=======footer=======*/
 footer {
   background-color: var(--primary-color);
