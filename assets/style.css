@@ -96,3 +96,11 @@ header {
 .nav-items a:hover {
   color: var(--hover-color);
 }
+
+/*=======Hero section=======*/
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
