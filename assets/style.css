@@ -110,7 +110,7 @@ header {
   min-height: 100vh;
   margin-left: auto;
   margin-right: auto;
-  max-width: 1200px;
+  padding: 0 14em;
   flex-direction: column;
 }
 
@@ -129,7 +129,7 @@ header {
 
 .hero-container .info h3 {
   color: var(--second-color);
-  font-feature-settings: 1.2em;
+  font-feature-settings: 1em;
   font-weight: 600;
   line-height: 40px;
 }
