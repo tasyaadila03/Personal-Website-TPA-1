@@ -107,6 +107,26 @@ header {
   align-items: center;
 }
 
+.about {
+  padding: 50px 80px;
+}
+
+.section-title {
+  width: 100%;
+  text-align: center;
+}
+
+.section-title h2 {
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.about-img {
+  width: 30%;
+  padding: 0 20px;
+  position: relative;
+}
+
 /*=======footer=======*/
 footer {
   background-color: var(--primary-color);
