@@ -139,3 +139,16 @@ header {
   font-size: 16px;
   max-width: 350px;
 }
+.hero-button {
+  display: flex;
+  gap: 12px;
+}
+
+.hero-button a {
+  font-size: 16px;
+  font-weight: 500;
+  display: inline-block;
+  margin-top: 32px;
+  letter-spacing: 1;
+  border-radius: 15px;
+}
