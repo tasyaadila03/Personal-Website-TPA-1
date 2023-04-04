@@ -78,6 +78,11 @@ header {
   font-weight: 600;
 }
 
+#active {
+  font-weight: 600;
+  color: var(--hover-color);
+}
+
 .nav-items a {
   color: var(--first-color);
   font-size: 16px;
