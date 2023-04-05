@@ -147,7 +147,7 @@ header {
 .blog-content h5 {
   font-size: 14px;
   padding: 10px 0;
-  font-weight: 500;
+  font-weight: 400;
   color: var(--primary-color);
 }
 
@@ -167,7 +167,7 @@ header {
 
 .blog-content-description .view:hover {
   color: var(--primary-color);
-  font-weight: 500;
+  font-weight: 600;
 }
 
 /*=======footer======*/
