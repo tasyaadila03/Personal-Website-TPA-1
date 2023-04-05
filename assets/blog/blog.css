@@ -148,6 +148,7 @@ header {
   font-size: 14px;
   padding: 10px 0;
   font-weight: 500;
+  color: var(--primary-color);
 }
 
 .blog-content-description {
