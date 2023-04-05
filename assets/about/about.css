@@ -137,8 +137,12 @@ header {
   padding-left: 80px;
 }
 
+.about-text p {
+  font-size: 12px;
+}
+
 .about-text h3 {
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 500;
   margin: 20px 0;
 }
@@ -149,6 +153,7 @@ header {
 }
 
 .about-text .skill-item {
+  font-size: 12px;
   background-color: var(--tag-color);
   border: 1px solid #fefefe;
   padding: 8px 16px;
@@ -203,7 +208,7 @@ header {
 }
 .about-text .timeline-item h4 {
   font-weight: 500;
-  font-size: 18px;
+  font-size: 16px;
   text-transform: capitalize;
   margin: 0 0 10px;
 }
@@ -221,7 +226,7 @@ header {
   border: 2px solid var(--hover-color);
   margin: 20px 0;
   padding: 8px 10px;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 500;
   word-spacing: 5px;
   border-radius: 10px;

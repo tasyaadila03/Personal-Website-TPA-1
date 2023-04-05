@@ -131,7 +131,7 @@ header {
 }
 
 .portfolio-text h3 {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
   margin: 24px 0 14px 0;
 }
@@ -173,7 +173,7 @@ header {
 .link-project {
   color: var(--second-color);
   font-weight: 500;
-  font-size: 16px;
+  font-size: 14px;
   transition: 300ms ease;
 }
 
