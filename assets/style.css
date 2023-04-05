@@ -74,7 +74,7 @@ header {
 
 .nav-bar .logo {
   color: var(--first-color);
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 600;
 }
 
@@ -85,7 +85,7 @@ header {
 
 .nav-items a {
   color: var(--first-color);
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 500;
 }
 
