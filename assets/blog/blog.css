@@ -139,6 +139,10 @@ header {
   text-align: justify;
 }
 
+.blog-content h3 {
+  font-size: 20px;
+}
+
 .blog-content h5 {
   font-size: 14px;
   padding: 10px 0;
