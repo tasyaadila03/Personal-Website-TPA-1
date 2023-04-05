@@ -173,13 +173,13 @@ header {
 .link-project {
   color: var(--second-color);
   font-weight: 500;
-  font-size: 14px;
+  font-size: 12px;
   transition: 300ms ease;
 }
 
 .link-project:hover {
   padding-left: 10px;
-  font-weight: 630;
+  font-weight: 600;
 }
 
 /*=======Footer=======*/
