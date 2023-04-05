@@ -74,7 +74,7 @@ header {
 
 .nav-bar .logo {
   color: var(--first-color);
-  font-size: 20px;
+  font-size: 14px;
   font-weight: 600;
 }
 
@@ -85,7 +85,7 @@ header {
 
 .nav-items a {
   color: var(--first-color);
-  font-size: 16px;
+  font-size: 12px;
   font-weight: 500;
 }
 
@@ -99,26 +99,24 @@ header {
 
 /*=======Hero section=======*/
 
-.flex-center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 .hero {
   position: relative;
   min-height: 100vh;
   margin-left: auto;
   margin-right: auto;
   padding: 0 14em;
-  flex-direction: column;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .hero .hero-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 240px;
 }
 
 .hero-container .info h2 {
