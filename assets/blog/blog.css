@@ -116,7 +116,7 @@ header {
   display: grid;
   grid-template-columns: auto auto;
   grid-gap: 1rem;
-  margin: 7vh 12vw;
+  margin: 7.5vh 12vw;
 }
 
 .blog-post {
@@ -141,15 +141,17 @@ header {
 
 .blog-content h3 {
   font-size: 18px;
+  font-weight: 700;
 }
 
 .blog-content h5 {
-  font-size: 12px;
+  font-size: 14px;
   padding: 10px 0;
   font-weight: 500;
 }
 
 .blog-content-description {
+  font-size: 12px;
   margin: 1vh 0 0 0;
 }
 
