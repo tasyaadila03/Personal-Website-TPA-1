@@ -90,7 +90,7 @@ header {
 }
 
 .nav-items a:not(:last-child) {
-  margin-right: 50px;
+  margin-right: 32px;
 }
 
 .nav-items a:hover {

@@ -79,18 +79,18 @@ header {
 
 .nav-bar .logo {
   color: var(--first-color);
-  font-size: 20px;
+  font-size: 14px;
   font-weight: 600;
 }
 
 .nav-items a {
   color: var(--first-color);
-  font-size: 16px;
+  font-size: 12px;
   font-weight: 500;
 }
 
 .nav-items a:not(:last-child) {
-  margin-right: 50px;
+  margin-right: 32px;
 }
 
 .nav-items a:hover {
