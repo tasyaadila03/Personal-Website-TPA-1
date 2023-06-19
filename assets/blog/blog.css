@@ -115,8 +115,8 @@ header {
 .blog-grid-container {
   display: grid;
   grid-template-columns: auto auto;
-  grid-gap: 1rem;
-  margin: 7.5vh 12vw;
+  grid-gap: 1.5rem;
+  margin: 7.5vh 15vw;
 }
 
 .blog-post {
